@@ -1,0 +1,15 @@
+Created a parking lot with 6 slots
+Allocated slot number: 1
+Allocated slot number: 2
+Allocated slot number: 3
+Allocated slot number: 4
+Allocated slot number: 5
+Allocated slot number: 6
+Slot number 4 is free
+[{"slot_no": 1, "registration_no": "KA-01-HH-1234", "colour": "White"}, {"slot_no": 2, "registration_no": "KA-01-HH-9999", "colour": "White"}, {"slot_no": 3, "registration_no": "KA-01-BB-0001", "colour": "Black"}, {"slot_no": 5, "registration_no": "KA-01-HH-2701", "colour": "Blue"}, {"slot_no": 6, "registration_no": "KA-01-HH-3141", "colour": "Black"}]
+Allocated slot number: 4
+Sorry, parking lot is full
+[{"slot_no": 1, "registration_no": "KA-01-HH-1234"}, {"slot_no": 2, "registration_no": "KA-01-HH-9999"}, {"slot_no": 4, "registration_no": "KA-01-P-333"}]
+[{"slot_no": 1, "registration_no": "KA-01-HH-1234"}, {"slot_no": 2, "registration_no": "KA-01-HH-9999"}, {"slot_no": 4, "registration_no": "KA-01-P-333"}]
+[{"slot_no": 6, "color": "Black"}]
+Not Found
